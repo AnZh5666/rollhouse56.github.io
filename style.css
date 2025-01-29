@@ -212,7 +212,7 @@
      visibility: hidden;
      position: fixed;
      min-width: 360px;
-     max-height: 80vh;
+     max-height: 100vh;
      top: 20px;
      background-color: #fff;
      border: 1px solid #ddd;
