@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Эдем",
-        "img": "../img/roll.png",
+        "img": "./img/roll.png",
         "contain": "нори, рис, творог, тунец, свежий огурец",
         "weight": "225",
         "price": 409
