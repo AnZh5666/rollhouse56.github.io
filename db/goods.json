@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Вулкан",
-        "img": "../img/vulkan.png",
+        "img": "../img/temp-oishi.png",
         "contain": "нори, рис, творог, краб, огурец",
         "weight": "205",
         "price": 399
